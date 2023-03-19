@@ -47,7 +47,6 @@
   ]
 
 , "author": "Tomek Wiszniewski <t.wiszniewski@gmail.com>"
-, "license": "MIT"
 , "keywords":
   [ "svg"
   , "parametric"

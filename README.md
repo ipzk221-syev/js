@@ -1,4 +1,6 @@
 # js
 forked just for studying
 
-MIT License 2023
+MIT License
+
+Copyright (c) 2023 ipzk221-syev

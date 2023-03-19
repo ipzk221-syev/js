@@ -9,5 +9,5 @@ License
 [MIT][] © [ipzk221-syev][].
 
 
-[MIT]: ./License.md
+[MIT]: ./LICENSE.md
 [ipzk221-syev]: https://github.com/ipzk221-syev

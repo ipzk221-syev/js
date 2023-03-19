@@ -1,6 +1,7 @@
 { "name": "parametric-svg"
 , "version": "0.0.5"
 , "description": "Parametric 2D graphics in the browser. With pure SVG."
+, "license": "MIT"
 
 , "scripts":
   { "develop": "nodangel --watch source --watch test --exec npm test"
